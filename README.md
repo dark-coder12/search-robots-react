@@ -1,5 +1,5 @@
 # search-robots-react
-A React based app that uses JSON parsing to load robots, then effectively searches and displays them through React Components.
+A React based app that uses JSON parsing to load robots, then effectively searches and displays them through React Components. Features the latest version of React as well as React Hooks such as useEffect, useState.
 
 - Download / Clone the project on your device.
 - run npm install
